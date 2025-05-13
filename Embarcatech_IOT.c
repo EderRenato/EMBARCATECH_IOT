@@ -9,8 +9,8 @@
 #include "lwip/tcp.h"
 #include "lwip/netif.h"
 
-#define WIFI_SSID "S@NTOS$28"
-#define WIFI_PASSWORD "p&1xe$82"
+#define WIFI_SSID "SEU_WIFI"
+#define WIFI_PASSWORD "SUA_SENHA"
 
 // Pin configurations
 #define I2C_OLED_PORT i2c1
