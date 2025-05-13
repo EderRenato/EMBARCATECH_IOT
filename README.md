@@ -58,6 +58,8 @@ Acesse pelo navegador:
 ```
 .
 ├── Embarcatech_IOT.c               # Código principal
+├── images/
+│   └── screenshot.h
 ├── lib/
 │   ├── lwipopts.h # Configurações para a internet
 │   ├── font.h # Cabeçalho com as fontes para o display OLED
